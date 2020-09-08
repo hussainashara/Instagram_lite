@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307329251247",
+    "firebase_url": "https://sastuinsta.firebaseio.com",
+    "project_id": "sastuinsta",
+    "storage_bucket": "sastuinsta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307329251247:android:5d2633f074df5ef6a0615a",
+        "android_client_info": {
+          "package_name": "com.example.sastu_insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307329251247-dtssga8mjclrub5kabk03kt36vrqnamp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sastu_insta",
+            "certificate_hash": "e450f1105dee80b9a9ab560f54b3ef621be6eddd"
+          }
+        },
+        {
+          "client_id": "307329251247-5itgattf9qa14grmubuo7lcha0o94ukh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJguZCywhHTI07itiLrJCCZ5jDRXMbow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307329251247-5itgattf9qa14grmubuo7lcha0o94ukh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

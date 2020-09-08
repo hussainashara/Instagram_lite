@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sastu_insta</string>
+    <string name="edit_profile_fragment">Edit Profile</string>
+    <string name="Signout_fragment">Logout</string>
+</resources>
